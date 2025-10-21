@@ -9,9 +9,8 @@ export const DATA = {
   locationLink: "https://www.google.com/maps/place/S%C3%A3o+Paulo",
   description:
     "Desenvolvedor full-stack freelancer, com experiência em hackathons e criação de sites SaaS.",
-  summary:
-    "Sou um desenvolvedor full-stack que trabalhou diversas vezes sobre demanda, criando sites e aplicações web de diferentes tipos — desde projetos autorais até soluções sob medida para clientes.
-Já participei de alguns hackathons e gosto de transformar ideias em experiências digitais funcionais, com foco em usabilidade, design e boas práticas de desenvolvimento.",
+  summary: `Sou um desenvolvedor full-stack que trabalhou diversas vezes sobre demanda, criando sites e aplicações web de diferentes tipos — desde projetos autorais até soluções sob medida para clientes.
+Já participei de alguns hackathons e gosto de transformar ideias em experiências digitais funcionais, com foco em usabilidade, design e boas práticas de desenvolvimento.`,
   avatarUrl: "/me.png",
   skills: [
     "React",
