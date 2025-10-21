@@ -10,7 +10,8 @@ export const DATA = {
   description:
     "Desenvolvedor full-stack freelancer, com experiência em hackathons e criação de sites SaaS.",
   summary:
-    "Sou um desenvolvedor full-stack que trabalha por demanda (freelancer). Já fiz um hackathon e normalmente crio sites no modelo SaaS ou outros, criados pela experiência.",
+    "Sou um desenvolvedor full-stack que trabalhou diversas vezes sobre demanda, criando sites e aplicações web de diferentes tipos — desde projetos autorais até soluções sob medida para clientes.
+Já participei de alguns hackathons e gosto de transformar ideias em experiências digitais funcionais, com foco em usabilidade, design e boas práticas de desenvolvimento.",
   avatarUrl: "/me.png",
   skills: [
     "React",
@@ -18,11 +19,15 @@ export const DATA = {
     "Typescript",
     "Node.js",
     "Python",
-    "Go",
+    "Fastapi",
     "Postgres",
     "Docker",
-    "Kubernetes",
+    "Django",
     "Java",
+    "Asp.net core",
+    "C#",
+    "Mongodb",
+    "Redis",
     "C++",
   ],
   navbar: [
