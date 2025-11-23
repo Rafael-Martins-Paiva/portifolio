@@ -106,6 +106,15 @@ Já participei de alguns [hackathons](/#hackathons) e gosto de transformar ideia
       description:
         "Participei do maior hackathon de ciência aberta do mundo, desenvolvendo uma solução baseada nos conjuntos de dados públicos da NASA para enfrentar desafios reais de ciência ambiental e espacial. Colaborei com uma equipe distribuída, criando um protótipo open-source alinhado às missões científicas da NASA e elegível para avaliação global.",
       image: "/nasa.jpeg",
+      links: [
+        {
+          title: "post oficial",
+          icon: <Icons.globe className="size-3" />,
+          href: "https://conahack.com.br/",
+        },
+      ],
+        }
+      ]
     },
     {
       title: "Hackathon WorCAP 2025 / INPE",
@@ -114,6 +123,13 @@ Já participei de alguns [hackathons](/#hackathons) e gosto de transformar ideia
       description:
         "Desenvolvemos uma solução para detectar cicatrizes de queimadas em biomas brasileiros usando imagens de satélite bi-temporais e técnicas de sensoriamento remoto e machine learning. A equipe colaborou de forma remota, enviando os modelos e código por meio da plataforma Kaggle e focando em reprodutibilidade, inovação e desempenho.",
       image: "/Hackathon do INPE (WorCAP 2025).jpeg",
+      links: [
+        {
+          title: "post oficial",
+          icon: <Icons.globe className="size-3" />,
+          href: "https://www.gov.br/inpe/pt-br/eventos/worcap-2025/hackathon",
+        },
+      ],
     },
   ],
 } as const;
