@@ -100,37 +100,20 @@ Já participei de alguns [hackathons](/#hackathons) e gosto de transformar ideia
   ],
   hackathons: [
     {
-      title: "HackDavis",
-      dates: "January 20th - 21st, 2018",
-      location: "Davis, California",
+      title: "CONAHACK / NASA Space Apps Challenge 2024",
+      dates: "October 5th - 6th, 2024",
+      location: "Brasil (online + multicidade)",
       description:
-        "Developed a mobile application which allocates a daily carbon emission allowance to users to move towards a sustainable environment.",
-      image:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/hackline/hack-davis.png",
-      win: "Best Data Hack",
-      mlh: "https://s3.amazonaws.com/logged-assets/trust-badge/2018/white.svg",
-      links: [
-        {
-          title: "Devpost",
-          icon: <Icons.globe className="size-3" />,
-          href: "https://devpost.com/software/my6footprint",
-        },
-        {
-          title: "ML",
-          icon: <Icons.github className="size-3" />,
-          href: "https://github.com/Wallet6/my6footprint-machine-learning",
-        },
-        {
-          title: "iOS",
-          icon: <Icons.github className="size-3" />,
-          href: "https://github.com/Wallet6/CarbonWallet",
-        },
-        {
-          title: "Server",
-          icon: <Icons.github className="size-3" />,
-          href: "https://github.com/Wallet6/wallet6-server",
-        },
-      ],
+        "Participei do maior hackathon de ciência aberta do mundo, desenvolvendo uma solução baseada nos conjuntos de dados públicos da NASA para enfrentar desafios reais de ciência ambiental e espacial. Colaborei com uma equipe distribuída, criando um protótipo open-source alinhado às missões científicas da NASA e elegível para avaliação global.",
+      image: "/nasa.jpeg",
+    },
+    {
+      title: "Hackathon WorCAP 2025 / INPE",
+      dates: "September 1st - 7th, 2025",
+      location: "Brasil (online + uso de Kaggle)",
+      description:
+        "Desenvolvemos uma solução para detectar cicatrizes de queimadas em biomas brasileiros usando imagens de satélite bi-temporais e técnicas de sensoriamento remoto e machine learning. A equipe colaborou de forma remota, enviando os modelos e código por meio da plataforma Kaggle e focando em reprodutibilidade, inovação e desempenho.",
+      image: "/Hackathon do INPE (WorCAP 2025).jpeg",
     },
   ],
 } as const;
