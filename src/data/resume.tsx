@@ -113,8 +113,6 @@ Já participei de alguns [hackathons](/#hackathons) e gosto de transformar ideia
           href: "https://conahack.com.br/",
         },
       ],
-        }
-      ]
     },
     {
       title: "Hackathon WorCAP 2025 / INPE",
