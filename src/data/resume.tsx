@@ -4,7 +4,7 @@ import { HomeIcon, NotebookIcon } from "lucide-react";
 export const DATA = {
   name: "Rafael Martins Paiva",
   initials: "RP",
-  url: "https://rafael.io",
+  url: "https://paiva.qzz.io",
   location: "São Paulo, Brazil",
   locationLink: "https://www.google.com/maps/place/S%C3%A3o+Paulo",
   description:
@@ -41,36 +41,25 @@ Já participei de alguns [hackathons](/#hackathons) e gosto de transformar ideia
     { href: "/", icon: HomeIcon, label: "Home" },
   ],
   contact: {
-    email: "hello@example.com",
+    email: "rafael.martins.paiva@outlook.com",
     tel: "+123456789",
     social: {
       GitHub: {
         name: "GitHub",
-        url: "https://dub.sh/dillion-github",
+        url: "https://github.com/Rafael-Martins-Paiva",
         icon: Icons.github,
 
         navbar: true,
       },
       LinkedIn: {
         name: "LinkedIn",
-        url: "https://dub.sh/dillion-linkedin",
+        url: "https://www.linkedin.com/in/
+        rafael-martins-paiva",
         icon: Icons.linkedin,
 
         navbar: true,
       },
-      X: {
-        name: "X",
-        url: "https://dub.sh/dillion-twitter",
-        icon: Icons.x,
-
-        navbar: true,
-      },
-      Youtube: {
-        name: "Youtube",
-        url: "https://dub.sh/dillion-youtube",
-        icon: Icons.youtube,
-        navbar: true,
-      },
+      
       email: {
         name: "Send Email",
         url: "#",
