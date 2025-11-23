@@ -53,8 +53,7 @@ Já participei de alguns [hackathons](/#hackathons) e gosto de transformar ideia
       },
       LinkedIn: {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/
-        rafael-martins-paiva",
+        url: "https://www.linkedin.com/in/rafael-martins-paiva",
         icon: Icons.linkedin,
 
         navbar: true,
