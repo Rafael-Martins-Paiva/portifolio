@@ -39,7 +39,6 @@ Já participei de alguns [hackathons](/#hackathons) e gosto de transformar ideia
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
-    { href: "/blog", icon: NotebookIcon, label: "Blog" },
   ],
   contact: {
     email: "hello@example.com",
@@ -88,7 +87,7 @@ Já participei de alguns [hackathons](/#hackathons) e gosto de transformar ideia
       dates: "Jan 2024 - Feb 2024",
       active: true,
       description:
-        "With the release of the [OpenAI GPT Store](https://openai.com/blog/introducing-the-gpt-store), I decided to build a SaaS which allows users to collect email addresses from their GPT users. This is a great way to build an audience and monetize your GPT API usage.",
+        "With the release of the [OpenAI GPT Store](https://openai.com/introducing-the-gpt-store), I decided to build a SaaS which allows users to collect email addresses from their GPT users. This is a great way to build an audience and monetize your GPT API usage.",
       technologies: [
         "Next.js",
         "Typescript",
