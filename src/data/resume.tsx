@@ -70,21 +70,15 @@ Já participei de alguns [hackathons](/#hackathons) e gosto de transformar ideia
   },
   projects: [
     {
-      title: "Chat Collect",
-      href: "https://chatcollect.com",
-      dates: "Jan 2024 - Feb 2024",
+      title: "bloglet",
+      href: "https://bloglet.qzz.io",
+      dates: "Nov 2025 - Nov 2025",
       active: true,
-      description:
-        "With the release of the [OpenAI GPT Store](https://openai.com/introducing-the-gpt-store), I decided to build a SaaS which allows users to collect email addresses from their GPT users. This is a great way to build an audience and monetize your GPT API usage.",
+      description: "um pequeno blog, onde todos podem postar posts sem necessidade de aprovação.",
       technologies: [
         "Next.js",
         "Typescript",
-        "PostgreSQL",
-        "Prisma",
         "TailwindCSS",
-        "Stripe",
-        "Shadcn UI",
-        "Magic UI",
       ],
       links: [
         {
@@ -93,7 +87,7 @@ Já participei de alguns [hackathons](/#hackathons) e gosto de transformar ideia
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: "",
+      image: "/bloglet.png",
       video:
         "https://pub-83c5db439b40468498f97946200806f7.r2.dev/chat-collect.mp4",
     },
