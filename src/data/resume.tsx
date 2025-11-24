@@ -95,7 +95,7 @@ Já participei de alguns [hackathons](/#hackathons) e gosto de transformar ideia
   hackathons: [
     {
       title: "CONAHACK / NASA Space Apps Challenge 2024",
-      dates: "October 5th - 6th, 2024",
+      dates: "5 – 6 de outubro de 2024",
       location: "Brasil (online + multicidade)",
       description:
         "Participei do maior hackathon de ciência aberta do mundo, desenvolvendo uma solução baseada nos conjuntos de dados públicos da NASA para enfrentar desafios reais de ciência ambiental e espacial. Colaborei com uma equipe distribuída, criando um protótipo open-source alinhado às missões científicas da NASA e elegível para avaliação global.",
@@ -110,7 +110,7 @@ Já participei de alguns [hackathons](/#hackathons) e gosto de transformar ideia
     },
     {
       title: "Hackathon WorCAP 2025 / INPE",
-      dates: "September 1st - 7th, 2025",
+      dates: "1 – 7 de setembro de 2025",
       location: "Brasil (online + uso de Kaggle)",
       description:
         "Desenvolvemos uma solução para detectar cicatrizes de queimadas em biomas brasileiros usando imagens de satélite bi-temporais e técnicas de sensoriamento remoto e machine learning. A equipe colaborou de forma remota, enviando os modelos e código por meio da plataforma Kaggle e focando em reprodutibilidade, inovação e desempenho.",
