@@ -83,7 +83,7 @@ Já participei de alguns [hackathons](/#hackathons) e gosto de transformar ideia
       links: [
         {
           type: "Website",
-          href: "https://chatcollect.com",
+          href: "https://bloglet.qzz.io",
           icon: <Icons.globe className="size-3" />,
         },
       ],
