@@ -115,7 +115,7 @@ export default function Page() {
                 </h2>
                 <p className="text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
                   Durante o período em que decidi priorizar networking, participei de diversos{" "}
-                  {DATA.hackathons.length}+ hackathons, com pessoas conhecidas e outras totalmente novas para mim,, 
+                  hackathons, com pessoas conhecidas e outras totalmente novas para mim,, 
                   mas sempre me impressionei com o que nós — e tantas outras pessoas — éramos capazes de construir juntos
                   em 2-3 dias. Viver essas experiências foi, sem dúvida, uma das coisas 
                   mais transformadoras em minha trajetória.
