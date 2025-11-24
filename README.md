@@ -1,47 +1,29 @@
 <div align="center">
-<img alt="Portfolio" src="https://github.com/dillionverma/portfolio/assets/16860528/57ffca81-3f0a-4425-b31d-094f61725455" width="90%">
+<img alt="Portfolio" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjkIdywQW9poqa5Fh95oKVBZyZb2I2SZDt0ULDu7oIhA&s=10" width="90%">
 </div>
 
-# Portfolio [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fdillionverma%2Fportfolio)
+![GitHub repo size](https://img.shields.io/github/repo-size/Rafael-Martins-Paiva/portifolio?style=for-the-badge)  
+![GitHub language count](https://img.shields.io/github/languages/count/Rafael-Martins-Paiva/portifolio?style=for-the-badge)  
 
-Built with next.js, [shadcn/ui](https://ui.shadcn.com/), and [magic ui](https://magicui.design/), deployed on Vercel.
+# portifolio
 
-# Features
+Este projeto é o meu portfólio pessoal, reunindo meus trabalhos, projetos e demonstrações de habilidades em desenvolvimento.
 
-- Setup only takes a few minutes by editing the [single config file](./src/data/resume.tsx)
-- Built using Next.js 14, React, Typescript, Shadcn/UI, TailwindCSS, Framer Motion, Magic UI
+## Como iniciar o projeto
 
-- Responsive for different devices
-- Optimized for Next.js and Vercel
+Você precisará rodar os seguintes comandos:
 
-# Getting Started Locally
+```bash
+pnpm install
+pnpm run dev
+```
 
-1. Clone this repository to your local machine:
+> Verifique se você possui:
+Node.js instalado (versão 14 ou superior).
+O pnpm funciona normalmente em versões recentes do Node.js, então recomenda-se Node.js ≥ 14.
+pnpm instalado globalmente:
+```bash
+npm install -g pnpm
+```
 
-   ```bash
-   git clone https://github.com/dillionverma/portfolio
-   ```
 
-2. Move to the cloned directory
-
-   ```bash
-   cd portfolio
-   ```
-
-3. Install dependencies:
-
-   ```bash
-   pnpm install
-   ```
-
-4. Start the local Server:
-
-   ```bash
-   pnpm dev
-   ```
-
-5. Open the [Config file](./src/data/resume.tsx) and make changes
-
-# License
-
-Licensed under the [MIT license](https://github.com/dillionverma/portfolio/blob/main/LICENSE.md).
