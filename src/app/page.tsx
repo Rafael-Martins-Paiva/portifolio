@@ -22,7 +22,7 @@ export default function Page() {
                 delay={BLUR_FADE_DELAY}
                 className="text-3xl font-bold tracking-tighter sm:text-5xl xl:text-6xl/none"
                 yOffset={8}
-                text={`Oi, eu sou ${DATA.name.split(" ")[0]} 👋`}
+                text={`Oi, eu sou ${DATA.name.split(" ")[0]} `}
               />
               <BlurFadeText
                 className="max-w-[600px] md:text-xl"
@@ -115,7 +115,7 @@ export default function Page() {
                 </h2>
                 <p className="text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
                   Durante o período em que decidi priorizar networking, participei de diversos{" "}
-                  hackathons, com pessoas conhecidas e outras totalmente novas para mim,, 
+                  hackathons, com pessoas conhecidas e outras totalmente novas para mim, 
                   mas sempre me impressionei com o que nós — e tantas outras pessoas — éramos capazes de construir juntos
                   em 2-3 dias. Viver essas experiências foi, sem dúvida, uma das coisas 
                   mais transformadoras em minha trajetória.
